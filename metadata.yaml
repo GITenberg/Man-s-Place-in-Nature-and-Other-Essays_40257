@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/595
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40257#Man-s-Place-in-Nature-and-Other-Essays
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
 identifiers:
